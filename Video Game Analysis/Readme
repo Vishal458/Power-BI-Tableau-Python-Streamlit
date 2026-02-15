@@ -1,0 +1,16 @@
+Overview:
+The project aims to analyze and visualize video game sales and engagement data to uncover trends in game popularity, user behavior, and platform performance. By merging sales and engagement data, we seek to offer insights into how game features, platforms, and genres influence sales, wishlists, and ratings. SQL will be used to structure and store the data, while Power BI dashboards will be developed to guide decision-making for game developers, marketers, and publishers.
+
+  Business Use Cases: 
+Game Marketing Strategy:
+●	Identify high-performing genres and platforms to target marketing efforts.
+●	Analyze rating and wishlist trends to understand user preferences. 
+Product Development:
+●	Evaluate how different game attributes (e.g., rating, genre, developer) relate to sales and engagement.
+●	Determine the features that correlate with successful game launches.
+Sales Forecasting:
+●	Analyze past performance to forecast game demand.
+●	Evaluate the impact of game ratings and wishlists on global sales trends.
+Resource Allocation:
+●	Focus development on platforms and genres with proven commercial success.
+●	Detects regions or genres with lower saturation and high opportunity.
