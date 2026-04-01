@@ -1,6 +1,6 @@
 # 🚖 OLA Ride Insights — Streamlit Dashboard
 
-A fully interactive recreation of the OLA Ride Insights Power BI report,
+A fully interactive recreation of the OLA Ride Insights using Power BI report from claude,
 built with Streamlit + Plotly. Dark-themed, multi-page, with live filters.
 
 ## Pages
